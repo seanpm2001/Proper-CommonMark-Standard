@@ -1,0 +1,1 @@
+⬇️Ⓜ️🪧️💾️ The official source repository for the Proper CommonMark standard, a fork of Markdown to fix the shortcomings of GitHub Flavored Markdown, and ensure changes don't disrupt or destroy existing works.
